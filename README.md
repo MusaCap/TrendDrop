@@ -1,0 +1,2 @@
+# TrendDrop
+Content distribution platform
